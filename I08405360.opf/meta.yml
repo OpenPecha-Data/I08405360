@@ -1,0 +1,24 @@
+id: I08405360
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-GR-08
+  title: ༄༅། །སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་པ་ཕྱིན་ཅི་མ་ལོག་པར་འགྲེལ་པ་ཚད་མ་རིགས་པའི་གཏེར་གྱི་དོན་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  authors: &id001
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-08
+  cover: IBA-GR-08.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་པ་ཕྱིན་ཅི་མ་ལོག་པར་འགྲེལ་པ་ཚད་མ་རིགས་པའི་གཏེར་གྱི་དོན་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: IBA-GR-08
+  cover: IBA-GR-08.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Yigchung
